@@ -1,6 +1,4 @@
-# **Muhammad Bilal - Full-stack Developer Portfolio**
-
-Here’s the updated version with the experience added:
+# **Muhammad Bilal - Full-stack Developer**
 
 ---
 
