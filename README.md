@@ -15,7 +15,7 @@ I also have experience integrating **smart contracts** with wallets like **MetaM
 - **State Management**: Redux Toolkit, localStorage
 
 ### **Backend**
-- **Node.js, Express, Nest.js**
+- **Node.js, Express, Nest.js, ROR**
 
 ## **Contact**
 - **LinkedIn**: [LinkedIn URL](https://www.linkedin.com/in/muhammad-bilal-31a2b215b/)
