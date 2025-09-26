@@ -9,7 +9,7 @@ I also have strong experience in blockchain development with **Web3**, **Ethers.
 
 ## **Work Experience**
 
-### **Full-Stack Developer – AALA IT Solutions** (2024 – Present)
+### **Full Stack Developer – AALA IT Solutions** (2024 – Present)
 - Delivered client projects on time and according to requirements.  
 - Built full-stack apps with **Ember.js**, **React.js**, **Vue.js**, and **Nest.js**.  
 - Deployed applications to **Heroku** and **cPanel**.  
