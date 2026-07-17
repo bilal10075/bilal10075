@@ -139,15 +139,15 @@ React Native Applications      Web3 and Wallet Integrations
 Real-Time Applications         Cloud Deployment and CI/CD
 ```
 
-## GitHub Activity
+## Current Focus
 
-<div align="center">
+- Building full-stack SaaS and AI-powered applications
+- Developing embeddable chatbots connected to business data
+- Modernizing production Ember.js applications
+- Building fintech dashboards and payment workflows
+- Working with private commercial repositories and client-owned codebases
 
-![Muhammad Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal10075&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal10075&layout=compact&hide_border=true&theme=transparent)
-
-</div>
+> Most of my professional work is maintained in private repositories due to client confidentiality. Public project summaries are included above without exposing proprietary source code.
 
 ---
 
