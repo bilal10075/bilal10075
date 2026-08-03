@@ -4,7 +4,7 @@
 
 ### Full-Stack SaaS Developer · AI Applications · Fintech · Ember.js
 
-I build and modernize SaaS products, fintech platforms, AI-powered applications, and cross-platform mobile experiences.
+Building production grade SaaS platforms, AI applications, Fintech products and modern web experiences used by startups and enterprises.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal10075)
 [![Upwork](https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/muhammadbilal2001)
