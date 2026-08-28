@@ -144,7 +144,7 @@ I'm a Full Stack Developer with **6+ years of experience** helping startups and 
 
 ## Current Focus
 
-- Building and scaling full-stack SaaS and AI-powered products
+- Building and scaling full stack SaaS and AI-powered products
 - Developing embeddable AI assistants connected to business data
 - Modernizing production Ember.js applications
 - Building fintech dashboards and secure payment workflows
