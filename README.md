@@ -2,9 +2,9 @@
 
 # Muhammad Bilal
 
-### Full-Stack SaaS Developer · AI Applications · Fintech · Ember.js
+### Full Stack SaaS Developer | React, Next.js, Vue.js, Nuxt.js, Ember.js & Node.js | AI, Fintech & Web3
 
-Building production grade SaaS platforms, AI applications, Fintech products and modern web experiences used by startups and enterprises.
+Building production grade SaaS platforms, AI applications, fintech products, and modern web experiences for startups and enterprises.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal10075)
 [![Upwork](https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/muhammadbilal2001)
@@ -16,14 +16,14 @@ Building production grade SaaS platforms, AI applications, Fintech products and 
 
 ## About Me
 
-I'm a Full-Stack Developer with **6+ years of experience** building, improving, and maintaining production applications. I work across frontend, backend, mobile, AI, fintech, blockchain, and real-time systems.
+I'm a Full Stack Developer with **6+ years of experience** helping startups and product teams build, improve, and maintain production grade applications. My experience spans web, mobile, AI, fintech, blockchain, real time systems, and cloud deployment.
 
-- Building SaaS products and MVPs from requirements to deployment
+- Building SaaS products and MVPs from requirements through deployment
 - Developing AI chatbots, RAG workflows, and data-connected assistants
 - Modernizing and upgrading legacy Ember.js applications
 - Creating fintech dashboards, payment flows, and API integrations
 - Building React Native applications for iOS and Android
-- Connecting Web3 wallets and smart contracts to modern frontends
+- Integrating Web3 wallets and smart contracts into modern frontends
 - Translating Figma designs into accurate, responsive interfaces
 
 ## Core Stack
@@ -86,7 +86,7 @@ I'm a Full-Stack Developer with **6+ years of experience** building, improving, 
 
 ## Work Experience
 
-### Software Engineer · AALA Solutions
+### Software Engineer · AALA IT Solutions
 
 **April 2024 – Present**
 
@@ -131,23 +131,24 @@ I'm a Full-Stack Developer with **6+ years of experience** building, improving, 
 
 ## What I Can Help With
 
-```text
-SaaS and MVP Development       AI Chatbots and RAG Systems
-Ember.js Upgrades              React and Next.js Applications
-Node.js and NestJS Backends    Fintech and Payment Integrations
-React Native Applications      Web3 and Wallet Integrations
-Real-Time Applications         Cloud Deployment and CI/CD
-```
+- SaaS and MVP Development
+- AI Chatbots and RAG Systems
+- Ember.js Upgrades and Modernization
+- React and Next.js Applications
+- Vue.js and Nuxt.js Applications
+- Node.js and NestJS Backends
+- Fintech and Payment Integrations
+- React Native Applications
+- Web3 and Wallet Integrations
+- Cloud Deployment and CI/CD
 
 ## Current Focus
 
-- Building full-stack SaaS and AI-powered applications
-- Developing embeddable chatbots connected to business data
+- Building and scaling full-stack SaaS and AI-powered products
+- Developing embeddable AI assistants connected to business data
 - Modernizing production Ember.js applications
-- Building fintech dashboards and payment workflows
-- Working with private commercial repositories and client-owned codebases
-
-> Most of my professional work is maintained in private repositories due to client confidentiality. Public project summaries are included above without exposing proprietary source code.
+- Building fintech dashboards and secure payment workflows
+- Delivering production-ready features from development through cloud deployment
 
 ---
 
